@@ -14,7 +14,7 @@ function About() {
       </p>
       <p>
         When I’m not coding, I enjoy reading tech blogs, playing chess, and
-        contributing to open-source projects.
+        contributing to coding projects.
       </p>
     </section>
   );
